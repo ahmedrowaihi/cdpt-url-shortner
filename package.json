@@ -1,7 +1,7 @@
 {
   "name": "cdpt-url-shortner",
   "description": "A url shortner using cdpt api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "private": false,
   "repository": "git@github.com:ahmedrowaihi/cdpt-url-shortner.git",
